@@ -1,0 +1,15 @@
+#
+Celta
+#
+>
+3
+16
+13
+>
+*
+Rossio
+Quilate 24
+Museu do Traje
+Museu Carlos Machado
+Museu da Tapecaria
+*

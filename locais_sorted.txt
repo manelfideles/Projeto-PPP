@@ -1,0 +1,100 @@
+1
+Aveiro,0
+Bodegas,20h-05h,Bar,0
+UA,7h-20h,Universidade,0
+Parque da Macaca,Sempre aberto,Parque Cultural,0
+2
+Beja,0
+Karga Club,17h-02h,Bar,0
+IPB,7h-20h,Universidade,0
+Jardim das Alcacarias,sempre aberto,Parque cultural,0
+3
+Braga,0
+Rossio,22h-03h,Bar,0
+UM,7h-20h,Universidade,0
+Museu Pio XII,11h-17h,Museu da era monarquica,0
+4
+Braganca,0
+Lagoa Azul,11h-16h,Bar,0
+Museu do Abade,11h-17h,Museu religioso,0
+IPB,7h-20h,Universidade,0
+5
+Castelo Branco,0
+Altios,14h-20h,Bar,0
+Museu Cargaleiro,9h-16h,Museu de Arte,0
+Jardim do Paco,sempre aberto,Parque cultural,0
+6
+Coimbra,0
+Moelas,11h-19h,Bar,0
+Museu Machado de Castro,9h-21h,Patrimonio cultural,0
+Jardim da Sereia,Sempre aberto,Parque cultural,0
+7
+Evora,0
+UE,7h-20h,Universidade,0
+Museu do Relogio,11h-17h,Museu,0
+Jardim dos Colegiais,sempre aberto,Parque cultural,0
+8
+Faro,0
+UAlg,7h-20h,Universidade,0
+Jardim da Alameda Joao de Deus,sempre aberto,Parque cultural,0
+Aquashow,10h-19h,Parque aquatico,0
+9
+Guarda,0
+Blue,21h-05h,Bar,0
+IPG,7h-20h,Universidade de Design e Multimedia,0
+Museu da Guarda,11h-17h,Museu de historia portuguesa,0
+10
+Leiria,0
+IPL,7h-20h,Universidade,0
+Museu Escolar,9h-11h,Museu,0
+Praia das Rocas,8h-22h,Parque aquatico,0
+11
+Lisboa,0
+Lisboa Bar,01h-11h,Bar,0
+FCUL,7h-20h,Universidade,0
+KidZania,9h-19h,Parque tematico,0
+12
+Madeira,0
+Madeira Bar,15h-00h,Bar,0
+UMA,7h-20h,Universidade,0
+Museu do Vinho,11h-19h,Museu,0
+13
+Portalegre,0
+Imprevisto,00h-16h,Bar,0
+IPP,7h-20h,Universidade,0
+Museu da Tapecaria,14h-20h, Museu de tapetes,0
+14
+Porto,0
+Costa Coffee,10h-00h,Bar,0
+Museu de Serralves,10h-16h,Cultura,0
+UP,7h-20h,Universidade,0
+15
+Santarem,0
+Nessie,07h-15h,Bar,0
+IPS,7h-20h,Universidade,0
+Jardim das Portas do Sol,sempre aberto,Parque cultural,0
+16
+Sao Miguel,0
+CUM,19h-05h,Bar,0
+UAC,7h-20h,Universidade,0
+Museu Carlos Machado,11h-18h, Museu cultural,0
+17
+Setubal,0
+Elevens,14h-23h,Bar,0
+IPS,7h-20h,Universidade,0
+Museu do Trabalho,11h-17h,Museu,0
+18
+Viana do Castelo,0
+Centro Historico,10h-18h,Bar,0
+IPVC,7h-20h,Instituto Politecnico,0
+Museu do Traje,10h-18h,Patrimonio cultural,0
+19
+Vila Real,0
+Quilate 24,15h-00h,Bar,0
+Museu de Arqueologia,10h-18h,Arqueologia,0
+UTAD,7h-20h,Universidade,0
+20
+Viseu,0
+Celta,12h-20h,Bar,0
+Museu Almeida Moreira,10h-18h,Museu de historia portuguesa,0
+Parque dos Estojos,14h-15h,Parque tematico,0
